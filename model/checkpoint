@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\TensorflowWorkspace\\study\\AIcompetition\\zhinengpingfen\\model\\model.ckpt"
+all_model_checkpoint_paths: "D:\\TensorflowWorkspace\\study\\AIcompetition\\zhinengpingfen\\model\\model.ckpt"
